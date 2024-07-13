@@ -1,0 +1,16 @@
+klass $A => {
+    public:
+        $A(){}
+      
+
+};
+
+int $a;
+float $b =1;
+void func $run(){
+
+}
+void main(){
+    $A $obj = new $B();
+
+}
